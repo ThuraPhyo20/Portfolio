@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header{
+   
+    margin: 15px;
+}
+
+header h1{
+    font-weight: bold;
+    font-size: 36px;
+    color:black;
+    margin: 0;
+    display: inline;
+}
+
+header a{
+    text-decoration: none;
+    color: #f0b95b !important; 
+    margin: 20px;  
+}
+
+header nav{
+    float: right;
+    margin: 7px 0;
+}
+
+header nav ul li{
+    display: inline;
+}
+
+figure{
+    padding-right: 200px;
+}
+
+img{
+    width: 280px;
+    height: 280px;
+    border-radius: 20%;
+    float: right;
+    
+}
+
+.header{
+    
+    padding: 25px;
+    display: inline-block;
+
+}
+
+h2{
+    color: bisque;
+}
+
+button{
+    width: 90px;
+    height: 28px;
+    background-color: bisque;
+}
+
+button:hover{
+    color: aquamarine;
+    background-color: black;
+    border-radius: 10px;
+    transition: 3s;
+}
+
+.social{
+    padding: 25px;
+    
+}
+
+.social ul li a{
+    text-decoration: none;
+    color: bisque;
+    list-style-type: none;
+    
+    
+}
+
+figcaption{
+    color: #f0b95b;
+    padding: 15px;
+    font-style: italic;
+}
+
+article{
+    color: #f0b95b;
+}
+
+.info{
+   margin-top: 50px;
+   margin-left: 80px;
+
+}
+
+h2{
+    font-weight: bold;
+    font-size: 65px;
+    color: #f0b95b;
+    
+}
+
+a{
+    color: #f0b95b;
+}
+
+/* a:hover{
+    color: bisque;
+} */
+
+p{
+    color: #f0b95b;
+}
+
+.about{
+    padding-top: 140px;
+
+}
+
+.fa{
+    background-color:  antiquewhite;
+    color:rgb(23, 168, 168);
+    padding: 20px;
+    font-size: 30px;
+    margin: 20px;
+    border-radius: 10px;
+    
+    
+}
+
+.fa:hover{
+    color: aliceblue;
+    background-color: darkgrey;
+}
+
+.about{
+    text-align: center;
+}
+
+.about h2{
+    text-decoration: underline white 3px;
+}
+
+span{
+    color: beige;
+}
